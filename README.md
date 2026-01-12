@@ -37,6 +37,8 @@ By proposing routing adjustments — like switching non-urgent air shipments to 
 
 **Visualisation**
 
+![Insights Visualisation:](Scripting Poster (3).pdf)
+
 
 
 
