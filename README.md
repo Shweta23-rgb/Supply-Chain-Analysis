@@ -35,11 +35,9 @@ ARVs (Anti-Retroviral Treatments) alone made up 84.2% of total insurance costs, 
 
 By proposing routing adjustments — like switching non-urgent air shipments to ocean — we estimated a potential cost reduction of 2% and delivery speed gains of 1.5%, especially in countries with repeat delay patterns.”
 
-**Visualisation**
+**Visualisation*
 
-![Insights Visualisation:](Scripting Poster (3).pdf)
-
-
+![Insights Visualisation Poster](Scripting Poster (3)-1.png)
 
 
 
